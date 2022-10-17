@@ -2,7 +2,7 @@
 layout: post
 category: info
 title: "Certificate - Badge"
-date: 2022-03-07
+date: 2022-10-16
 head_ctf_categories:
   - Certificate - Badge
 ---
