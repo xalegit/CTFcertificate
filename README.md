@@ -9,7 +9,7 @@ head_ctf_categories:
 # Certificate - Badge
 
 ## DEADFACE 2022
-![img_name](/DEADFACE_2022/Cyber_Hacktics-DEADFACE_CTF_2021_Competitor-2021-10-17.png
+![img_name](/DEADFACE_2022/Cyber_Hacktics-DEADFACE_CTF_2021_Competitor-2021-10-17.png)
 
 ## VishwaCTF 2022
 ![img_name](/VishwaCTF_2022/certificate.png)
