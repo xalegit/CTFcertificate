@@ -8,6 +8,8 @@ head_ctf_categories:
 ---
 # Certificate - Badge
 
+## DEADFACE 2022
+![img_name](/DEADFACE_2022/Cyber_Hacktics-DEADFACE_CTF_2021_Competitor-2021-10-17.png
 
 ## VishwaCTF 2022
 ![img_name](/VishwaCTF_2022/certificate.png)
@@ -18,8 +20,8 @@ head_ctf_categories:
 ## SACRAMENTUM 2021
 ![img_name](/SACRAMENTUM_2021/certificate.png)
 
-## HACKTOBER 2021
-![img_name](/HACKTOBER_2021/Cyber_Hacktics-DEADFACE_CTF_2021_Competitor-2021-10-17.png)
+## DEADFACE 2021
+![img_name](/DEADFACE_2021/Cyber_Hacktics-DEADFACE_CTF_2021_Competitor-2021-10-17.png)
 
 ## DAMCON 2021
 ![img_name](/DAMCON_2021/certificate.png)
