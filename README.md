@@ -9,7 +9,13 @@ head_ctf_categories:
 # Certificate - Badge
 
 
-## DAMCON 2021
+## DEADFACE 2024
+![img_name](/DEADFACE_2024/Cyber_Hacktics-DEADFACE_CTF_2024_Competitor-2024-10-19.png)
+
+## DEADFACE 2023
+![img_name](/DEADFACE_2023/Cyber_Hacktics-DEADFACE_CTF_2023_Competitor-2023-10-20.png)
+
+## DAMCON 2022
 ![img_name](/DAMCON_2022/certificate.png)
 
 ## DEADFACE 2022
